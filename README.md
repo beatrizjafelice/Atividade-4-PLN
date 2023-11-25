@@ -1,1 +1,3 @@
-# Atividade-4-PLN
+# Atividade 4 PLN
+
+Aplicações da API OpenAI.
